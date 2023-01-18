@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Caio Gobbi
 
-- 🌱 Estudando HTML, CSS, JavaScript, Python
+- HTML, CSS, JavaScript, Python
 
  
  
