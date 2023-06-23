@@ -1,6 +1,6 @@
-### Me chamo Caio, estudante de ADS!
+### Me chamo Caio, estudo ADS pela PUCPR
 
-- HTML, CSS, JavaScript, Python
+- HTML, CSS, JavaScript, Python, SQL.
 
  
  
