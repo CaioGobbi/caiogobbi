@@ -1,4 +1,4 @@
-### Olá! Eu sou o Caio Gobbi
+### Me chamo Caio, estudante de ADS!
 
 - HTML, CSS, JavaScript, Python
 
