@@ -1,6 +1,6 @@
-### Me chamo Caio, Dev BackEnd!
+### Me chamo Caio, Analista de dados!
 
-- JavaScript, Python, SQL, Ruby(Ruby on Rails).
+- JavaScript, Python, MySql, NoSql.
 
  
   
