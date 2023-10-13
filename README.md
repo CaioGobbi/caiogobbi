@@ -1,6 +1,6 @@
 ### Me chamo Caio, Analista de dados!
 
-- JavaScript, Python, MySql, NoSql.
+- Java, Python, MySql, NoSql, PHP.
 
  
   
