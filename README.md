@@ -1,4 +1,4 @@
-### Me chamo Caio, Analista de dados!
+### Me chamo Caio!
 
 - Java, Python, MySql, NoSql, PHP.
 
