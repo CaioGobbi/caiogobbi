@@ -1,6 +1,7 @@
 ### Me chamo Caio!
 
-- Java, Python, MySql, NoSql, PHP.
+- Aperto ENTER melhor do que ninguém.
+- Product manager/UI & UX
 
  
   
