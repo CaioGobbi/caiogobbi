@@ -1,6 +1,7 @@
 ### Me chamo Caio!
 
-- Aperto ENTER melhor do que ninguém.
+- Analista de dados
+   https://www.kaggle.com/caiogobbi
 - Product manager/UI & UX
 
  
